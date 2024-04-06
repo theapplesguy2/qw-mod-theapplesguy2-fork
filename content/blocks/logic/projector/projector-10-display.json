@@ -9,5 +9,6 @@
         "camod-green/25"
     
     ],
-    "category": "logic"
+    "category": "logic",
+    "rotate": true
 }
