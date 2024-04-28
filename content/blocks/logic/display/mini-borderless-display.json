@@ -3,12 +3,14 @@
     "name": "Mini Borderless Display",
     "health": 400,
     "size": 2,
-    "displaySize": 64,
+    "displaySize": 44,
     "alwaysUnlocked": true,
     "requirements": [
      "silicon/24",
      "metaglass/24"
     ],
     "category": "logic",
-    "rotate": true
+    "research": {
+    
+    }
 }
