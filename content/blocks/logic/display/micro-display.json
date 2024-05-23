@@ -3,7 +3,8 @@
     "name": "Micro Display",
     "health": 600,
     "size": 1,
-    "displaySize": 22,
+    "rotate": true,
+    "displaySize": 16,
     "alwaysUnlocked": true,
     "requirements": [
      "lead/20",

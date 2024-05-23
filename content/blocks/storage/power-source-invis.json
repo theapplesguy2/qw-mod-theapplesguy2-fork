@@ -1,0 +1,16 @@
+{    
+    "type": "PowerSource",
+    "name": "Invis Power Source",
+    "health": 600,
+    "size": 1,
+    "alwaysUnlocked": true,
+    "hasShadow": false,
+    "range": 75,
+    "requirements": [
+     "metaglass/6"
+    ],
+    "category": "effect",
+    "research": {
+    
+    }
+}

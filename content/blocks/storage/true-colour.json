@@ -1,0 +1,15 @@
+{    
+    "type": "Unloader",
+    "name": "True Colour",
+    "health": 600,
+    "size": 1,
+    "alwaysUnlocked": true,
+    "requirements": [
+     "camod-spectral/1",
+        "camod-black/1"
+    ],
+    "category": "effect",
+    "research": {
+    
+    }
+}
