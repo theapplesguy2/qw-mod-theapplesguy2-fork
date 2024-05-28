@@ -4,6 +4,7 @@
     "health": 600,
     "size": 1,
     "alwaysUnlocked": true,
+    "hasShadow": false,
     "requirements": [
      "camod-spectral/1",
         "camod-black/1"
