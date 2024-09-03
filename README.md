@@ -1,7 +1,7 @@
-# QW Mod
-Mod for the rping server, QW.
+# QW Mod theapplesguy2 fork
+fork of the infamous (or not) qwmod
 
-Adds a shitload of stuff, focused towards
-improving the rp experience.
+quality of life features
 
-(Mindustry mod)
+fixes:
+-made unloader two have the look of the normal unloader
